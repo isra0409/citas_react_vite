@@ -1,0 +1,6 @@
+body{
+    /* background-color: palevioletred; */
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
